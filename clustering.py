@@ -17,7 +17,7 @@ plt.plot(cluster_2[:,0], cluster_2[:,1], "go")
 plt.plot(center_1[0], center_1[1], "r*", markersize=20) 
 plt.plot(center_2[0], center_2[1], "g*", markersize=20) 
 
-plt.title("k-means clustering")
+plt.title("k-means Clustering")
 plt.xlabel("x")
 plt.ylabel("y")
 plt.show()
